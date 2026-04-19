@@ -1,5 +1,5 @@
 // Gemini API Configuration
-const GEMINI_API_KEY = 'AIzaSyD2zDupjscAbwghw1uhreEb-kHRcKazEvQ'; // Replace with your actual API key
+const GEMINI_API_KEY = ''; // Replace with your actual API key
 const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1/models/gemini-2.5-pro:generateContent';
 
 class GeminiAPI {
